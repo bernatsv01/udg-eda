@@ -1,3 +1,0 @@
-C:/Users/Bernat/CLionProjects/udg-eda/cmake-build-debug/CMakeFiles/udg_eda.dir
-C:/Users/Bernat/CLionProjects/udg-eda/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Bernat/CLionProjects/udg-eda/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:\Users\Bernat\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\udg_eda.dir/objects.a
-D:\MinGW\bin\ar.exe cr CMakeFiles\udg_eda.dir/objects.a @CMakeFiles\udg_eda.dir\objects1.rsp
-D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\udg_eda.dir/objects.a -Wl,--no-whole-archive  -o udg_eda.exe -Wl,--out-implib,libudg_eda.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\udg_eda.dir\linklibs.rsp
