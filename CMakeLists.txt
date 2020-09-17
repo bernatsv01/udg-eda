@@ -3,4 +3,5 @@ project(udg_eda)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(udg_eda estructuraDinamica.cpp estructuraDinamica.h main.cpp)
+#EDA directories
+add_subdirectory(udg-eda-acme)
