@@ -1,6 +1,6 @@
 [submodule "udg-eda-acme"]
 	path = udg-eda-acme
-	url = git@github.com:bernatsv01/udg-eda-acme.git
+	url = git@github.com:udg-geinf/udg-eda-acme.git
 [submodule "udg-eda-practiques"]
 	path = udg-eda-practiques
-	url = git@github.com:bernatsv01/udg-eda-practiques
+	url = git@github.com:udg-geinf/udg-eda-practiques
